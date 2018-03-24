@@ -1,0 +1,20 @@
+{
+  "name": "diff-zip",
+  "description": "This module creates and applies differences/patches between two folders.",
+  "author": "Thomas Frank <thomas@nodebite.se> (http://nodebite.se)",
+  "version": "1.0.0",
+  "main": "diff-zip.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ironboy/diff-zip"
+  },
+  "bugs": "https://github.com/ironboy/diff-zip/issues",
+  "license" : "MIT",
+  "engines" : { "node" : ">=8.10"},
+  "dependencies": {
+    "archiver": "^2.1.1",
+    "unzip-stream": "^0.3.0",
+    "ncp": "^2.0.0",
+    "rimraf": "^2.6.2"
+  }
+}
