@@ -35,7 +35,7 @@ npm install diff-zip
 Then, in your program, require diff-zip:
 
 ```javascript
-const DiffZip = require('DiffZip')
+const DiffZip = require('diff-zip')
 ```
 
 

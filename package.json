@@ -2,7 +2,7 @@
   "name": "diff-zip",
   "description": "This module creates and applies differences/patches between two folders.",
   "author": "Thomas Frank <thomas@nodebite.se> (http://nodebite.se)",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "diff-zip.js",
   "repository": {
     "type": "git",
